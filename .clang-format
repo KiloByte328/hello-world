@@ -79,7 +79,7 @@ SpacesInContainerLiterals: false
 SpacesInCStyleCastParentheses: false
 SpacesInParentheses: false
 SpacesInSquareBrackets: false
-Standard:        C11
+Standard:        C
 TabWidth:        8
 UseTab:          Never
 ...
